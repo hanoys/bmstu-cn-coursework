@@ -1,0 +1,273 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{rfc9110}{misc}{}
+      \name{author}{3}{}{%
+        {{hash=489e3655cdca151facfb40953b9759f8}{%
+           family={Fielding},
+           familyi={F\bibinitperiod},
+           given={Roy\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=7d1635d30c3304a4da18074b0201f6b0}{%
+           family={Nottingham},
+           familyi={N\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c07b881ce18f1c139ec16860aa2c8dad}{%
+           family={Reschke},
+           familyi={R\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{namehash}{71f5c2585c576fd9af736848fe11bc35}
+      \strng{fullhash}{71f5c2585c576fd9af736848fe11bc35}
+      \strng{bibnamehash}{71f5c2585c576fd9af736848fe11bc35}
+      \strng{authorbibnamehash}{71f5c2585c576fd9af736848fe11bc35}
+      \strng{authornamehash}{71f5c2585c576fd9af736848fe11bc35}
+      \strng{authorfullhash}{71f5c2585c576fd9af736848fe11bc35}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{RFC 9110}
+      \field{month}{6}
+      \field{pagetotal}{194}
+      \field{series}{Request for Comments}
+      \field{title}{{HTTP Semantics}}
+      \field{year}{2022}
+      \field{number}{9110}
+      \range{number}{1}
+    \endentry
+    \entry{rfc2616}{misc}{useauthor=false}
+      \name{author}{7}{}{%
+        {{hash=a6588e029b024b66dac73bfe93e7fd35}{%
+           family={Nielsen},
+           familyi={N\bibinitperiod},
+           given={Henrik},
+           giveni={H\bibinitperiod}}}%
+        {{hash=07a291d424c13fd4aa8d2a2975fe88c3}{%
+           family={Mogul},
+           familyi={M\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod}}}%
+        {{hash=125393a57ea8e504b5480229f8c1f40f}{%
+           family={Masinter},
+           familyi={M\bibinitperiod},
+           given={Larry\bibnamedelima M},
+           giveni={L\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=489e3655cdca151facfb40953b9759f8}{%
+           family={Fielding},
+           familyi={F\bibinitperiod},
+           given={Roy\bibnamedelima T.},
+           giveni={R\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=39e7a25fdfe5df6a002b946f4fdb305b}{%
+           family={Gettys},
+           familyi={G\bibinitperiod},
+           given={Jim},
+           giveni={J\bibinitperiod}}}%
+        {{hash=8dd2a216676f13eb6fe2a82f00021125}{%
+           family={Leach},
+           familyi={L\bibinitperiod},
+           given={Paul\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=d469e0df304c98f67b55d087ea6187a1}{%
+           family={Berners-Lee},
+           familyi={B\bibinithyphendelim L\bibinitperiod},
+           given={Tim},
+           giveni={T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {RFC Editor}%
+      }
+      \strng{authorbibnamehash}{e4d346e3cd4a1ccfd764fac7eed82467}
+      \strng{authornamehash}{e4d346e3cd4a1ccfd764fac7eed82467}
+      \strng{authorfullhash}{5b9f69faad395e5f7b6adf612913a3af}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{RFC 2616}
+      \field{month}{6}
+      \field{pagetotal}{176}
+      \field{series}{Request for Comments}
+      \field{title}{{Hypertext Transfer Protocol -- HTTP/1.1}}
+      \field{year}{1999}
+      \field{number}{2616}
+      \range{number}{1}
+    \endentry
+    \entry{pool}{book}{}
+      \name{author}{2}{}{%
+        {{hash=432433360938df89c51785bfeac84837}{%
+           family={Garg},
+           familyi={G\bibinitperiod},
+           given={Rajat\bibnamedelima P.},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=3b642db0a105ff4aa0eb41c92c8652f6}{%
+           family={Sharapov},
+           familyi={S\bibinitperiod},
+           given={Illya},
+           giveni={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {USA}%
+      }
+      \list{publisher}{1}{%
+        {Prentice Hall PTR}%
+      }
+      \strng{namehash}{12826fcc088285e13ed938ed87f0c650}
+      \strng{fullhash}{12826fcc088285e13ed938ed87f0c650}
+      \strng{bibnamehash}{12826fcc088285e13ed938ed87f0c650}
+      \strng{authorbibnamehash}{12826fcc088285e13ed938ed87f0c650}
+      \strng{authornamehash}{12826fcc088285e13ed938ed87f0c650}
+      \strng{authorfullhash}{12826fcc088285e13ed938ed87f0c650}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Techniques for Optimizing Applications: High Performance Computing}
+      \field{year}{2001}
+    \endentry
+    \entry{pool2}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e0161eba13c48e8ee19de007b2201dda}{%
+           family={Ling},
+           familyi={L\bibinitperiod},
+           given={Yibei},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a84f1a4a806364e08a3c40123d487497}{%
+           family={Mullen},
+           familyi={M\bibinitperiod},
+           given={Tracy},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6d5257f7e98d37e0e9469b4bea8b6031}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Xiaola},
+           giveni={X\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York, NY, USA}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computing Machinery}%
+      }
+      \strng{namehash}{abc2c712b265ce3fe370081fec06200f}
+      \strng{fullhash}{abc2c712b265ce3fe370081fec06200f}
+      \strng{bibnamehash}{abc2c712b265ce3fe370081fec06200f}
+      \strng{authorbibnamehash}{abc2c712b265ce3fe370081fec06200f}
+      \strng{authornamehash}{abc2c712b265ce3fe370081fec06200f}
+      \strng{authorfullhash}{abc2c712b265ce3fe370081fec06200f}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{SIGOPS Oper. Syst. Rev.}
+      \field{month}{4}
+      \field{title}{Analysis of optimal thread pool size}
+      \field{year}{2000}
+      \field{number}{2}
+      \range{number}{1}
+      \field{pages}{42\bibrangedash 55}
+      \range{pages}{14}
+      \field{volume}{34}
+      \range{volume}{1}
+    \endentry
+    \entry{tlpi}{inbook}{}
+      \name{author}{1}{}{%
+        {{hash=7f32f61adec784489cc0fa2cefa610a3}{%
+           family={Kerrisk},
+           familyi={K\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {No Starch Press}%
+      }
+      \strng{namehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{fullhash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{bibnamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authorbibnamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authornamehash}{7f32f61adec784489cc0fa2cefa610a3}
+      \strng{authorfullhash}{7f32f61adec784489cc0fa2cefa610a3}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The linux programming interface a linux und unix system programming handbook Michael Kerrisk}
+      \field{title}{Alternative I/O models}
+      \field{year}{2018}
+      \field{pages}{1325\bibrangedash 1340}
+      \range{pages}{16}
+    \endentry
+    \entry{M2}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{Apple M2}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.notebookcheck.net/Apple-M2-Processor-Benchmarks-and-Specs.632312.0.html
+      \endverb
+      \verb{url}
+      \verb https://www.notebookcheck.net/Apple-M2-Processor-Benchmarks-and-Specs.632312.0.html
+      \endverb
+    \endentry
+    \entry{ab}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labeltitlesource}{title}
+      \field{title}{ab - Apache HTTP server benchmarking tool}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://httpd.apache.org/docs/2.4/programs/ab.html
+      \endverb
+      \verb{url}
+      \verb https://httpd.apache.org/docs/2.4/programs/ab.html
+      \endverb
+    \endentry
+    \entry{nginx}{online}{}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
+      \field{labeltitlesource}{title}
+      \field{title}{nginx}
+      \field{urlday}{17}
+      \field{urlmonth}{12}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://nginx.org/en/
+      \endverb
+      \verb{url}
+      \verb https://nginx.org/en/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,36 @@
+Server Software:        nginx/1.27.3
+Server Hostname:        127.0.0.1
+Server Port:            80
+
+Document Path:          /tmp/static/index.html
+Document Length:        Variable
+
+Concurrency Level:      100
+Time taken for tests:   0.494 seconds
+Complete requests:      5000
+Failed requests:        0
+Keep-Alive requests:    5000
+Total transferred:      2845000 bytes
+HTML transferred:       1655000 bytes
+Requests per second:    10127.14 [#/sec] (mean)
+Time per request:       9.874 [ms] (mean)
+Time per request:       0.099 [ms] (mean, across all concurrent requests)
+Transfer rate:          5627.29 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.3      0       3
+Processing:     1   10   9.0      9     134
+Waiting:        1   10   9.0      9     134
+Total:          1   10   9.3      9     136
+
+Percentage of the requests served within a certain time (ms)
+  50%      9
+  66%      9
+  75%      9
+  80%      9
+  90%     11
+  95%     12
+  98%     14
+  99%     57
+ 100%    136 (longest request)

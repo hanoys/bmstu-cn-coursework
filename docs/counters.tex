@@ -1,0 +1,15 @@
+\newcounter{myequation}
+\pretocmd{\equation}{\stepcounter{myequation}}{}{}
+\renewcommand{\theequation}{\arabic{equation}}
+
+\newcounter{myfigure}
+\pretocmd{\figure}{\stepcounter{myfigure}}{}{}
+\renewcommand{\thefigure}{\arabic{myfigure}}
+
+\newcounter{mytable}
+\pretocmd{\table}{\stepcounter{mytable}}{}{}
+\renewcommand{\thetable}{\arabic{mytable}}
+
+\newcounter{mylstlisting}
+\pretocmd{\lstlisting}{\stepcounter{mylstlisting}}{}{}
+\renewcommand{\thelstlisting}{\arabic{lstlisting}}

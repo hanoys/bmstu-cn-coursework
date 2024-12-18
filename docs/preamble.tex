@@ -1,0 +1,49 @@
+\usepackage[]{svg}
+\usepackage[]{pdfpages}
+\usepackage{multirow}
+\usepackage{longtable}
+
+\renewcommand{\labelitemi}{---}
+
+\usepackage{graphicx}
+\newcommand{\img}[3] {
+    \begin{figure}[h]
+        \center{\includegraphics[height=#1]{inc/img/#2}}
+        \caption{#3}
+        \label{img:#2}
+    \end{figure}
+}
+
+\newcommand{\svg}[3]{
+\begin{figure}[H]
+  \centering
+  \includesvg[inkscapelatex=false, width=1\textwidth]{inc/img/#1}
+  \caption{#2}
+  \label{img:#1}
+\end{figure}
+}
+
+\lstset{
+	language={C++},
+	backgroundcolor=\color{white},
+	basicstyle=\footnotesize\ttfamily,
+	keywordstyle=\color{blue},
+	stringstyle=\color{red},
+	commentstyle=\color{gray},
+	numbers=left,
+	numberstyle=\footnotesize,
+	stepnumber=1,
+	numbersep=5pt,
+	frame=single,
+	tabsize=4,
+	captionpos=t,
+	breaklines=true
+}
+
+\NewBibliographyString{accessmode}
+\DeclareFieldFormat{url}{\bibstring{accessmode}\addcolon\space\url{#1}}
+\DeclareFieldFormat{title}{#1}
+\DefineBibliographyStrings{russian}{
+accessmode={Режим доступа:},
+urlseen={дата обращения:}
+}

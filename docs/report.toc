@@ -1,0 +1,23 @@
+\babel@toc {russian}{}\relax 
+\contentsline {chapter}{РЕФЕРАТ}{3}{chapter*.2}%
+\contentsline {chapter}{ВВЕДЕНИЕ}{5}{chapter*.4}%
+\contentsline {chapter}{\numberline {1}Аналитическая часть}{6}{chapter.1}%
+\contentsline {section}{\numberline {1.1}HTTP}{6}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Пул потоков}{7}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Poll}{7}{section.1.3}%
+\contentsline {section}{Вывод}{8}{lstnumber.1.3.5}%
+\contentsline {chapter}{\numberline {2}Конструкторская часть}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Алгоритм обработки сообщений от клиентов}{9}{section.2.1}%
+\contentsline {section}{Вывод}{10}{figure.caption.5}%
+\contentsline {chapter}{\numberline {3}Технологическая часть}{11}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Средства реализации}{11}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Реализация алгоритма обработки сообщений от клиентов}{11}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Демонстрация работы программы}{12}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Исследовательская часть}{14}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Технические характеристики}{14}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Постановка исследования}{14}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Результаты исследования}{14}{section.4.3}%
+\contentsline {section}{Вывод}{15}{table.caption.8}%
+\contentsline {chapter}{ЗАКЛЮЧЕНИЕ}{16}{chapter*.9}%
+\contentsline {chapter}{СПИСОК ИСПОЛЬЗОВАННЫХ ИСТОЧНИКОВ}{17}{chapter*.10}%
+\contentsline {chapter}{ПРИЛОЖЕНИЕ А}{18}{chapter*.11}%

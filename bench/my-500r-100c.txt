@@ -1,0 +1,36 @@
+Server Software:
+Server Hostname:        127.0.0.1
+Server Port:            9990
+
+Document Path:          /Users/timurmusin/BMSTU/cn/coursework/ics7-cn-cw/src/build/CMakeCache.txt
+Document Length:        Variable
+
+Concurrency Level:      100
+Time taken for tests:   0.085 seconds
+Complete requests:      500
+Failed requests:        0
+Keep-Alive requests:    0
+Total transferred:      6610000 bytes
+HTML transferred:       6566500 bytes
+Requests per second:    5874.89 [#/sec] (mean)
+Time per request:       17.022 [ms] (mean)
+Time per request:       0.170 [ms] (mean, across all concurrent requests)
+Transfer rate:          75845.73 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        0    0   0.8      0       3
+Processing:     2   15   4.7     15      42
+Waiting:        0   15   4.7     15      42
+Total:          2   15   4.4     15      42
+
+Percentage of the requests served within a certain time (ms)
+  50%     15
+  66%     16
+  75%     16
+  80%     16
+  90%     18
+  95%     22
+  98%     29
+  99%     31
+ 100%     42 (longest request)
